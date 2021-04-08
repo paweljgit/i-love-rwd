@@ -1,0 +1,35 @@
+{
+    "laptop": {
+        "name": "laptop",
+        "width": 350,
+        "height": 206,
+        "screenWidth": 1280,
+        "screenHeight": 720,
+        "screenRatioHeight": 16,
+        "screenRatioWidth": 9
+    },
+    "phone": {
+        "name": "phone",
+        "screenRatioHeight": 16,
+        "screenRatioWidth": 9,
+        "screenWidth": 400,
+        "topPadding": 10,
+        "leftPadding": 10,
+        "rightPadding": 10,
+        "bottomPadding": 55,
+        "borderRadius": 15,
+        "isRotated": false
+    },
+    "tablet": {
+        "name": "tablet",
+        "screenRatioHeight": 4,
+        "screenRatioWidth": 3,
+        "screenWidth": 800,
+        "topPadding": 10,
+        "leftPadding": 10,
+        "rightPadding": 10,
+        "bottomPadding": 30,
+        "borderRadius": 15,
+        "isRotated": false
+    }
+}

@@ -1,0 +1,35 @@
+{
+  "eng": {
+    "home": {
+      "welcomeBox": {
+        "title": "Hi. Enter a website address to see mockups of different views.",
+        "formButton": "Show",
+        "info": "We give you the ability to preview the website on different devices. We know there are other similar tools... but we try to be the prettiest. Preview is only possible for sites that DON'T have X-Frame Options set to Same Origin or Deny."
+      },
+      "seoContent": {
+        "content": "<h1>Responsive Web Design - websites preview tool<\/h1><p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Inventore, aliquid architecto esse blanditiis culpa quibusdam ab iste neque autem soluta reiciendis. Ipsam aut illum praesentium quasi aliquid ducimus fugit nulla quam adipisci unde ipsa nostrum esse ut hic officia nemo dignissimos, temporibus odio laboriosam omnis quibusdam ab quas. Dolore dignissimos laborum eaque quasi sit similique vitae laudantium totam maiores officia repudiandae, in nisi temporibus, unde ad soluta tempora? Maxime, nobis totam nisi non pariatur odio, vel quam, et expedita maiores iure eveniet. Autem adipisci, consequuntur provident recusandae quod, nihil esse commodi non sequi, dolorem architecto dolor. Repellendus commodi velit accusantium libero ipsam illo magni omnis numquam deserunt corrupti nam exercitationem sapiente error vel aut ea autem quae, recusandae sint soluta sed dolor enim quis? Numquam consectetur hic nostrum earum temporibus!<\/p><h2>Preview of the website on the phone<\/h2><p>Ex, ea quibusdam adipisci, aliquam quaerat obcaecati sit aliquid placeat dolore laudantium fuga voluptate dolores ducimus? Perspiciatis quas incidunt, deleniti obcaecati ullam id sint velit provident soluta minus consequatur, dolorum veritatis doloremque mollitia nemo, quaerat maxime. Animi, sapiente incidunt. Quaerat libero pariatur reprehenderit excepturi aut iure dolores ullam iusto ea, quos necessitatibus quo culpa. Ipsam quis eos maiores incidunt nemo corporis mollitia aspernatur sed maxime rerum consequuntur earum dicta, hic molestiae, placeat impedit voluptatem voluptates quaerat. Ea doloribus soluta, dolorum, repellat natus totam consequuntur dolorem quisquam repellendus rerum similique nostrum harum qui aspernatur, distinctio necessitatibus accusamus debitis dicta molestiae alias eveniet. Sunt ipsa veniam porro, maiores repellat est ipsum quisquam voluptatibus! Iure cupiditate debitis eius qui reprehenderit. Aut quisquam provident architecto voluptatum quaerat magnam omnis iste fuga deleniti. Maiores, sit veniam? Atque laborum eveniet eum, quis nobis mollitia culpa similique numquam aperiam dolorem expedita magni. <\/p><h3>How do I preview the mobile view?<\/h3><p>Eos nulla eaque optio non pariatur necessitatibus maiores nemo. Id quasi doloremque maxime, laboriosam rerum repellendus ex! Sint corrupti porro quibusdam distinctio rem error aliquam! Ducimus totam dicta praesentium commodi enim quia optio ab sunt alias tempore, quod laudantium nostrum? Illo id corrupti ea reprehenderit harum explicabo numquam possimus, eaque neque veritatis cupiditate corporis ipsa autem exercitationem maxime maiores non sed consectetur perspiciatis. Nostrum ab quibusdam qui alias incidunt unde, blanditiis, reiciendis aut, repellat suscipit dicta. Dolore facilis iste consequatur culpa veritatis odio reiciendis? Eveniet, ipsa fuga voluptatem atque ea libero quidem rem provident commodi aperiam animi accusantium.<\/p><p>Dolor facere voluptatibus totam aut debitis quas ducimus, deserunt magnam distinctio temporibus explicabo consectetur impedit incidunt rerum quae provident. Obcaecati error alias possimus deleniti eaque voluptatem expedita hic exercitationem facilis suscipit, maxime, quae laborum maiores sapiente delectus nihil ratione accusantium consequuntur. Id debitis quam fuga eligendi porro asperiores illum explicabo quasi dicta natus nobis architecto saepe enim nam, neque cupiditate at maxime eum libero vel a quisquam ut aut iusto. Architecto perferendis minima fuga commodi beatae repellat eveniet quidem, iusto illo necessitatibus mollitia praesentium delectus rem cumque consectetur animi alias quam sequi nulla, aut aliquam nostrum ratione laboriosam? Doloribus libero rerum dolore repellat, dicta neque, voluptatem impedit asperiores placeat ex error, eveniet voluptatum quibusdam vel assumenda itaque explicabo vero autem. Suscipit ab dolores vero facere, voluptatibus quasi!<\/p>"
+      }
+    },
+    "submitedUrl": {
+      "firstMockupSet": {
+        "title": "Great! Now take look on diferent wievs.",
+        "info1": "You are watichng",
+        "info2": "Want to see other site? Click for ",
+        "info3": "check new site"
+      },
+      "allMockups": {
+        "content": "<p>Doloribus libero rerum dolore repellat, dicta neque, voluptatem impedit asperiores placeat ex error, eveniet voluptatum quibusdam vel assumenda itaque explicabo vero autem. Suscipit ab dolores vero facere, voluptatibus quasi!<\/p>",
+        "sharingButton": "Share",
+        "sharingModal": {
+          "title": "Copy the address and share",
+          "modalButton": "Copy to clipboard",
+          "doneAlert": "Great. The link is already in your clipboard.",
+          "errorAlert": "Oops, unable to copy. You need to copy the link manually."
+        }
+      }
+    },
+    "footer": {
+      "content": "<p>It is a beta version of the app. This website is generated using Vue.js. The project repository with the \"development roadmap\" is available at: <a href=\"https://github.com/paweljgit/i-love-rwd\" target=\"_blank\"> https://github.com/paweljgit / i-love-rwd </a>. Wish me luck in my work on the next versions. Please report bugs with github. Have a nice day. :)<\/p>"
+    }
+  }
+}
