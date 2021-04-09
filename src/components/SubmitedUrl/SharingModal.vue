@@ -7,7 +7,7 @@
       <p>{{ content.title }}</p>
       <input 
         class="modal__input" 
-        :value="$route.fullPath" 
+        :value="currenUrl" 
         id="modalInput"
         readonly="readonly">
       <button 
@@ -21,6 +21,11 @@
 
 export default {
   name: "SharingModal",
+  data() {
+    return {
+      currenUrl: location.toString()
+    }
+  },
   props: {
     content: {
       type: Object,
