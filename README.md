@@ -16,7 +16,7 @@ Yes I know. There are already a few such tools, but this is supposed to be the n
 
 ## Live site url 
 
-https://iloverwd.com - I invite you, go ahead and click :)
+https://iloverwd.com - I invite you to check, go ahead and click :)
 
 ## What do we have here?
 I built the application on **Vue.js 2** (**Vue CLI**, Single File Components). I was using a **vue router**. **Style is pure scss** without ony frameworks (my code with **bem**). Device models are generated on the basis of data from the json file, which allows for quick modification - e.g. screen ratio, frame size in mobile devices or edge rounding. All text content is loaded from the json file in the future it will be replaced with a connection to the cms system.
